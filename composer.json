@@ -1,0 +1,15 @@
+{
+    "name": "uss/quiz",
+    "description": "Sistema de pruebas",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.28"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Uss",
+            "email": "uss@example.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
